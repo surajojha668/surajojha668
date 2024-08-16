@@ -29,7 +29,7 @@
 📝 **Curated Articles**  
 - [My Latest Project: StudyNotion](https://portfolio-three-virid-10.vercel.app/studynotion)  
 - [How I Built the Money Tracker App](https://portfolio-three-virid-10.vercel.app/money-tracker)  
-- [Contributions to Girlscript Summer of Code](https://github.com/girlscript/gssoc-website-new)  
+
 
 
 ### 🎖️ GSSOC(24) Badges 🪶
