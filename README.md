@@ -6,22 +6,82 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/whyfore_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whyfore_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-ojha-49287a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-ojha-49287a21b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suraj-ojha-49287a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-ojha-49287a21b/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajojha668&show_icons=true&locale=en&layout=compact" alt="surajojha668" /></p>
+### 🧑‍🎓 Education
+- **National Institute of Technology, Jamshedpur**  
+  *Bachelor of Technology in Production and Industrial Engineering* - **CGPA: 8** (Expected April 2025)
+  
+- **Saraswati Vidya Mandir, Sindri**  
+  *Senior Secondary (XII)* - **94.6%** (April 2021)
+  
+- **Saraswati Vidya Mandir, Sindri**  
+  *Secondary School (X)* - **92.8%** (April 2019)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajojha668&show_icons=true&locale=en" alt="surajojha668" /></p>
+---
 
-<p><img align="center" src="https://www.linkedin.com/in/suraj-ojha-49287a21b/" alt="surajojha668" /></p>
+### 🛠️ Skills Summary
+- **Languages:** Java, Python, SQL, JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js, Redux, Tailwind, Express
+- **Databases:** MongoDB, DBMS
+- **Developer Tools:** Git, Git & GitHub, Visual Studio, IntelliJ
+- **Tools/Applications:** Visual Studio, IntelliJ IDEA
 
+---
 
+### 🧑‍💻 Experience
+- **Physics Wallah**  
+  *Senior Associate*  
+  *Feb 2022 – May 2024*  
+  - Contributed to a JEE Mains and NEET question bank used by 500,000 students with 22,232 daily attempts.
+  - Enhanced content quality for 50,000 daily users through Sahayak Features.
+  - Ensured error-free content as a Quality Check Specialist.
+  - Conducted quality control for NEET and JEE video solutions.
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+- **Octanet Services Pvt Ltd**  
+  *Web Developer (Internship)*  
+  *May 2024 – July 2024*  
+  - Developed and deployed over 10 real-life projects, enhancing user experiences.
+  - Worked on front-end and back-end development, collaborating with the team to meet project deadlines.
+
+- **Physics Wallah**  
+  *Web Developer (Internship)*  
+  *July 2024 – August 2024*  
+  - Developed a React-based Money Tracker App for managing expenses and income.
+  - Documented High-Level and Low-Level designs, Architecture, and Wireframe.
+
+- **Girlscript Summer Of Code (GSSoC)**  
+  *Technical Content Writer (Internship)*  
+  *April 2024 – August 2024*  
+  - Created engaging content, managed a team of writers, and ensured content met standards and deadlines.
+  - Coordinated with approximately 25,000 applicants and facilitated webinars with renowned influencers.
+
+---
+
+### 📊 Projects
+- **[StudyNotion](https://portfolio-three-virid-10.vercel.app/)**  
+  A fully functional ed-tech platform developed using the MERN stack. It offers interactive learning experiences, user authentication, payment integration, and media management. Technologies used: *React, Node.js, Redux, Tailwind, MongoDB, Express, Git, GitHub.*
+
+- **[Ecomzy Shopping Application](https://portfolio-three-virid-10.vercel.app/)**  
+  An e-commerce platform with product management, user authentication, and secure payment integration. Technologies used: *React, Redux, Git, GitHub.*
+
+---
+
+### 🏆 Honors and Awards
+- **2024:** 13th Rank in Vishwa - Code - Mania by Ojass.
+- **2024:** Winner of Multiple Case Study Competitions at NIT Jamshedpur.
+- **2024:** Lean Six Sigma Green Belt certified by AIGPE.
+- **2023:** Solved 300+ coding challenges on LeetCode and GFG.
+- **2022:** First place in basketball at the URJA Fest, NIT JSR.
+- **2021:** Foundation for Excellence Scholarship (4-year scholarship).
+
+---
+
+### 🎖️ GSSOC(24) Badges 🪶
+<p align="center">
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="100px" height="100px" />
@@ -31,6 +91,11 @@
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/6.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png" width="100px" height="100px" />
-</div>
+</p>
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajojha668&show_icons=true&locale=en&layout=compact" alt="surajojha668" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajojha668&show_icons=true&locale=en" alt="surajojha668" /></p>
 
