@@ -1,7 +1,3 @@
-Here's the profile in a copy-paste-friendly format:
-
----
-
 # Hi there, I'm Suraj Ojha 👋
 
 **Portfolio** - [Visit My Portfolio](https://portfolio-three-virid-10.vercel.app)  
